@@ -14,6 +14,7 @@ By Description
 | ASP.NET MVC 4                                     | {E3E379DF-F4C6-4180-9B81-6769533ABE47} |
 | ASP.NET MVC 5                                     | {349C5851-65DF-11DA-9384-00065B846F21} |
 | C#                                                | {FAE04EC0-301F-11D3-BF4B-00C04F79EFBC} |
+| C# (.Net Core)                                    | {9A19103F-16F7-4668-BE54-9A1E7A4F7556} |
 | C++                                               | {8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942} |
 | Database                                          | {A9ACE9BB-CECE-4E62-9AA4-C7E7C5BD2124} |
 | Database (other project types)                    | {4F174C21-8C12-11D0-8340-0000F80270F8} |
@@ -27,14 +28,18 @@ By Description
 | J#                                                | {E6FDF86B-F3D1-11D4-8576-0002A516ECE8} |
 | Legacy (2003) Smart Device (C#)                   | {20D4826A-C6FA-45DB-90F4-C717570B9F32} |
 | Legacy (2003) Smart Device (VB.NET)               | {CB4CE8C6-1BDB-4DC7-A4D3-65A1999772F8} |
+| Lightswitch                                       | {DA98106F-DEFA-4A62-8804-0BD2F166A45D} |
 | Micro Framework                                   | {b69e3092-b931-443C-ABE7-7E7b65f2a37F} |
-| Model-View-Controller v2 (MVC 2)	            | {F85E285D-A4E0-4152-9332-AB1D724D3325} |
+| Model-View-Controller v2 (MVC 2)                  | {F85E285D-A4E0-4152-9332-AB1D724D3325} |
 | Model-View-Controller v3 (MVC 3)                  | {E53F8FEA-EAE0-44A6-8774-FFD645390401} |
 | Model-View-Controller v4 (MVC 4)                  | {E3E379DF-F4C6-4180-9B81-6769533ABE47} |
 | Model-View-Controller v5 (MVC 5)                  | {349C5851-65DF-11DA-9384-00065B846F21} |
 | Mono for Android                                  | {EFBA0AD7-5A72-4C68-AF49-83D382785DCF} |
+| MonoDevelop Addin                                 | {86F6BF2A-E449-4B3E-813B-9ACC37E5545F} |
 | MonoTouch                                         | {6BC8ED88-2882-458C-8E55-DFD12B67127B} |
 | MonoTouch Binding                                 | {F5B4F3BC-B597-4E2B-B552-EF5D8A32436F} |
+| Platform Toolset v120                             | {8DB26A54-E6C6-494F-9B32-ACBB256CD3A5} |
+| Platform Toolset v141                             | {C2CAFE0E-DCE1-4D03-BBF6-18283CF86E48} |
 | Portable Class Library                            | {786C830F-07A1-408B-BD7F-6EE04809D6DB} |
 | Project Folders                                   | {66A26720-8FB5-11D2-AA7E-00C04F688DDE} |
 | SharePoint (C#)                                   | {593B0543-81F6-4436-BA1E-4747859CAAE2} |
@@ -44,6 +49,8 @@ By Description
 | Smart Device (C#)                                 | {4D628B5B-2FBC-4AA6-8C16-197242AEB884} |
 | Smart Device (VB.NET)                             | {68B1623D-7FB9-47D8-8664-7ECEA3297D4F} |
 | Solution Folder                                   | {2150E333-8FDC-42A3-9474-1A3956D46DE8} |
+| SSIS                                              | {159641D6-6404-4A2A-AE62-294DE0FE8301} |
+| SSRS                                              | {F14B399A-7131-4C87-9E4B-1186C45EF12D} |
 | Test                                              | {3AC096D0-A1C2-E12C-1390-A8335801FDAB} |
 | Universal Windows Class Library                   | {A5A43C5B-DE2A-4C0C-9213-0A381AF9435A} |
 | VB.NET                                            | {F184B08F-C81C-45F6-A57F-5ABD9991F28F} |
@@ -78,6 +85,7 @@ By GUID
 |---------------------------------------------------|----------------------------------------|
 | Deployment Merge Module                           | {06A35CCD-C46D-44D5-987B-CF40FF872267} |
 | Workflow (C#)                                     | {14822709-B5A1-4724-98CA-57A101D1B079} |
+| SSIS                                              | {159641D6-6404-4A2A-AE62-294DE0FE8301} |
 | Legacy (2003) Smart Device (C#)                   | {20D4826A-C6FA-45DB-90F4-C717570B9F32} |
 | Solution Folder                                   | {2150E333-8FDC-42A3-9474-1A3956D46DE8} |
 | XNA (XBox)                                        | {2DF5C3F4-5A5F-47a9-8E94-23B4456F55E2} |
@@ -98,9 +106,12 @@ By GUID
 | XNA (Windows)                                     | {6D335F3A-9D43-41b4-9D22-F6F17C4BE596} |
 | Windows Phone 8/8.1 Blank/Hub/Webview App         | {76F1466A-8B6D-4E39-A767-685A06062A39} |
 | Portable Class Library                            | {786C830F-07A1-408B-BD7F-6EE04809D6DB} |
+| MonoDevelop Addin                                 | {86F6BF2A-E449-4B3E-813B-9ACC37E5545F} |
 | ASP.NET 5                                         | {8BB2217D-0F2D-49D1-97BC-3654ED321F3B} |
 | C++                                               | {8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942} |
+| Platform Toolset v120                             | {8DB26A54-E6C6-494F-9B32-ACBB256CD3A5} |
 | Deployment Setup                                  | {978C614F-708E-4E1A-B201-565925725DBA} |
+| C# (.Net Core)                                    | {9A19103F-16F7-4668-BE54-9A1E7A4F7556} |
 | Silverlight                                       | {A1591282-1198-4647-A2B1-27E5FF5F6F3B} |
 | Universal Windows Class Library                   | {A5A43C5B-DE2A-4C0C-9213-0A381AF9435A} |
 | Visual Studio Tools for Applications (VSTA)       | {A860303F-1F3F-4691-B57E-529FC101A107} |
@@ -112,9 +123,11 @@ By GUID
 | C# in Dynamics 2012 AX AOT                        | {BF6F8E12-879D-49E7-ADF0-5503146B24B8} |
 | Windows Phone 8/8.1 App (C#)                      | {C089C8C0-30E0-4E22-80C0-CE093F111A43} |
 | Visual Database Tools                             | {C252FEB5-A946-4202-B1D4-9916A0590387} |
+| Platform Toolset v141                             | {C2CAFE0E-DCE1-4D03-BBF6-18283CF86E48} |
 | Legacy (2003) Smart Device (VB.NET)               | {CB4CE8C6-1BDB-4DC7-A4D3-65A1999772F8} |
 | XNA (Zune)                                        | {D399B71A-8929-442A-A9AC-8BEC78BB2433} |
 | Workflow (VB.NET)                                 | {D59BE175-2ED0-4C54-BE3D-CDAA9F3214C8} |
+| Lightswitch                                       | {DA98106F-DEFA-4A62-8804-0BD2F166A45D} |
 | Windows Phone 8/8.1 App (VB.NET)                  | {DB03555F-0C8B-43BE-9FF9-57896B3C5E56} |
 | Web Site                                          | {E24C65DC-7377-472B-9ABA-BC803B73C61A} |
 | ASP.NET MVC 4.0                                   | {E3E379DF-F4C6-4180-9B81-6769533ABE47} |
@@ -123,6 +136,7 @@ By GUID
 | SharePoint (VB.NET)                               | {EC05E597-79D4-47f3-ADA0-324C4F7C7484} |
 | Xamarin.Android / Mono for Android                | {EFBA0AD7-5A72-4C68-AF49-83D382785DCF} |
 | Distributed System                                | {F135691A-BF7E-435D-8960-F99683D2D49C} |
+| SSRS                                              | {F14B399A-7131-4C87-9E4B-1186C45EF12D} |
 | VB.NET                                            | {F184B08F-C81C-45F6-A57F-5ABD9991F28F} |
 | F#                                                | {F2A71F9B-5D33-465A-A702-920D77279786} |
 | MonoTouch Binding                                 | {F5B4F3BC-B597-4E2B-B552-EF5D8A32436F} |
