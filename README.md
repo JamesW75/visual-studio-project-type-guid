@@ -24,12 +24,16 @@ By Description
 | Deployment Smart Device Cab                       | {AB322303-2255-48EF-A496-5904EB18DA55} |
 | Distributed System                                | {F135691A-BF7E-435D-8960-F99683D2D49C} |
 | Dynamics 2012 AX C# in AOT                        | {BF6F8E12-879D-49E7-ADF0-5503146B24B8} |
+| Extensibility                                     | {82B43B9B-A64C-4715-B499-D71E9CA2BD60} |
 | F#                                                | {F2A71F9B-5D33-465A-A702-920D77279786} |
 | J#                                                | {E6FDF86B-F3D1-11D4-8576-0002A516ECE8} |
+| JScript                                           | {262852C6-CD72-467D-83FE-5EEB1973A190} |
 | Legacy (2003) Smart Device (C#)                   | {20D4826A-C6FA-45DB-90F4-C717570B9F32} |
 | Legacy (2003) Smart Device (VB.NET)               | {CB4CE8C6-1BDB-4DC7-A4D3-65A1999772F8} |
+| LightSwitch                                       | {8BB0C5E8-0616-4F60-8E55-A43933E57E9C} |
 | Lightswitch                                       | {DA98106F-DEFA-4A62-8804-0BD2F166A45D} |
-| Micro Framework                                   | {b69e3092-b931-443C-ABE7-7E7b65f2a37F} |
+| LightSwitch Project                               | {581633EB-B896-402F-8E60-36F3DA191C85} |
+| Micro Framework                                   | {B69E3092-B931-443C-ABE7-7E7b65f2A37F} |
 | Model-View-Controller v2 (MVC 2)                  | {F85E285D-A4E0-4152-9332-AB1D724D3325} |
 | Model-View-Controller v3 (MVC 3)                  | {E53F8FEA-EAE0-44A6-8774-FFD645390401} |
 | Model-View-Controller v4 (MVC 4)                  | {E3E379DF-F4C6-4180-9B81-6769533ABE47} |
@@ -38,6 +42,7 @@ By Description
 | MonoDevelop Addin                                 | {86F6BF2A-E449-4B3E-813B-9ACC37E5545F} |
 | MonoTouch                                         | {6BC8ED88-2882-458C-8E55-DFD12B67127B} |
 | MonoTouch Binding                                 | {F5B4F3BC-B597-4E2B-B552-EF5D8A32436F} |
+| Office/SharePoint App                             | {C1CDDADD-2546-481F-9697-4EA41081F2FC} |
 | Platform Toolset v120                             | {8DB26A54-E6C6-494F-9B32-ACBB256CD3A5} |
 | Platform Toolset v141                             | {C2CAFE0E-DCE1-4D03-BBF6-18283CF86E48} |
 | Portable Class Library                            | {786C830F-07A1-408B-BD7F-6EE04809D6DB} |
@@ -88,6 +93,7 @@ By GUID
 | SSIS                                              | {159641D6-6404-4A2A-AE62-294DE0FE8301} |
 | Legacy (2003) Smart Device (C#)                   | {20D4826A-C6FA-45DB-90F4-C717570B9F32} |
 | Solution Folder                                   | {2150E333-8FDC-42A3-9474-1A3956D46DE8} |
+| JScript                                           | {262852C6-CD72-467D-83FE-5EEB1973A190} |
 | XNA (XBox)                                        | {2DF5C3F4-5A5F-47a9-8E94-23B4456F55E2} |
 | Workflow Foundation                               | {32F31D43-81CC-4C15-9DE6-3FC5453562B6} |
 | Web Application (incl. MVC 5)                     | {349C5851-65DF-11DA-9384-00065B846F21} |
@@ -97,6 +103,7 @@ By GUID
 | Smart Device (C#)                                 | {4D628B5B-2FBC-4AA6-8C16-197242AEB884} |
 | Database (other project types)                    | {4F174C21-8C12-11D0-8340-0000F80270F8} |
 | Visual Studio 2015 Installer Project Extension    | {54435603-DBB4-11D2-8724-00A0C9A8B90C} |
+| LightSwitch Project                               | {581633EB-B896-402F-8E60-36F3DA191C85} |
 | SharePoint (C#)                                   | {593B0543-81F6-4436-BA1E-4747859CAAE2} |
 | ASP.NET MVC 1.0                                   | {603C0E0B-DB56-11DC-BE95-000D561079B0} |
 | Windows Presentation Foundation (WPF)             | {60DC8134-EBA5-43B8-BCC9-BB4BC16C2548} |
@@ -106,7 +113,9 @@ By GUID
 | XNA (Windows)                                     | {6D335F3A-9D43-41b4-9D22-F6F17C4BE596} |
 | Windows Phone 8/8.1 Blank/Hub/Webview App         | {76F1466A-8B6D-4E39-A767-685A06062A39} |
 | Portable Class Library                            | {786C830F-07A1-408B-BD7F-6EE04809D6DB} |
+| Extensibility                                     | {82B43B9B-A64C-4715-B499-D71E9CA2BD60} |
 | MonoDevelop Addin                                 | {86F6BF2A-E449-4B3E-813B-9ACC37E5545F} |
+| LightSwitch                                       | {8BB0C5E8-0616-4F60-8E55-A43933E57E9C} |
 | ASP.NET 5                                         | {8BB2217D-0F2D-49D1-97BC-3654ED321F3B} |
 | C++                                               | {8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942} |
 | Platform Toolset v120                             | {8DB26A54-E6C6-494F-9B32-ACBB256CD3A5} |
@@ -122,11 +131,13 @@ By GUID
 | Windows Store Apps (Metro Apps)                   | {BC8A1FFA-BEE3-4634-8014-F334798102B3} |
 | C# in Dynamics 2012 AX AOT                        | {BF6F8E12-879D-49E7-ADF0-5503146B24B8} |
 | Windows Phone 8/8.1 App (C#)                      | {C089C8C0-30E0-4E22-80C0-CE093F111A43} |
+| Office/SharePoint App                             | {C1CDDADD-2546-481F-9697-4EA41081F2FC} |
 | Visual Database Tools                             | {C252FEB5-A946-4202-B1D4-9916A0590387} |
 | Platform Toolset v141                             | {C2CAFE0E-DCE1-4D03-BBF6-18283CF86E48} |
 | Legacy (2003) Smart Device (VB.NET)               | {CB4CE8C6-1BDB-4DC7-A4D3-65A1999772F8} |
 | XNA (Zune)                                        | {D399B71A-8929-442A-A9AC-8BEC78BB2433} |
 | Workflow (VB.NET)                                 | {D59BE175-2ED0-4C54-BE3D-CDAA9F3214C8} |
+| Store App Universal                               | {D954291E-2A0B-460D-934E-DC6B0785DB48} |
 | Lightswitch                                       | {DA98106F-DEFA-4A62-8804-0BD2F166A45D} |
 | Windows Phone 8/8.1 App (VB.NET)                  | {DB03555F-0C8B-43BE-9FF9-57896B3C5E56} |
 | Web Site                                          | {E24C65DC-7377-472B-9ABA-BC803B73C61A} |
