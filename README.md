@@ -46,6 +46,7 @@ By Description
 | Platform Toolset v120                             | {8DB26A54-E6C6-494F-9B32-ACBB256CD3A5} |
 | Platform Toolset v141                             | {C2CAFE0E-DCE1-4D03-BBF6-18283CF86E48} |
 | Portable Class Library                            | {786C830F-07A1-408B-BD7F-6EE04809D6DB} |
+| PowerShell                                        | {F5034706-568F-408A-B7B3-4D38C6DB8A32} |
 | Project Folders                                   | {66A26720-8FB5-11D2-AA7E-00C04F688DDE} |
 | SharePoint (C#)                                   | {593B0543-81F6-4436-BA1E-4747859CAAE2} |
 | SharePoint (VB.NET)                               | {EC05E597-79D4-47F3-ADA0-324C4F7C7484} |
@@ -55,6 +56,7 @@ By Description
 | Smart Device (VB.NET)                             | {68B1623D-7FB9-47D8-8664-7ECEA3297D4F} |
 | Solution Folder                                   | {2150E333-8FDC-42A3-9474-1A3956D46DE8} |
 | SSIS                                              | {159641D6-6404-4A2A-AE62-294DE0FE8301} |
+| SSIS                                              | {D183A3D8-5FD8-494B-B014-37F57B35E655} |
 | SSRS                                              | {F14B399A-7131-4C87-9E4B-1186C45EF12D} |
 | Test                                              | {3AC096D0-A1C2-E12C-1390-A8335801FDAB} |
 | Universal Windows Class Library                   | {A5A43C5B-DE2A-4C0C-9213-0A381AF9435A} |
@@ -135,6 +137,7 @@ By GUID
 | Visual Database Tools                             | {C252FEB5-A946-4202-B1D4-9916A0590387} |
 | Platform Toolset v141                             | {C2CAFE0E-DCE1-4D03-BBF6-18283CF86E48} |
 | Legacy (2003) Smart Device (VB.NET)               | {CB4CE8C6-1BDB-4DC7-A4D3-65A1999772F8} |
+| SSIS                                              | {D183A3D8-5FD8-494B-B014-37F57B35E655} |
 | XNA (Zune)                                        | {D399B71A-8929-442A-A9AC-8BEC78BB2433} |
 | Workflow (VB.NET)                                 | {D59BE175-2ED0-4C54-BE3D-CDAA9F3214C8} |
 | Store App Universal                               | {D954291E-2A0B-460D-934E-DC6B0785DB48} |
@@ -150,6 +153,7 @@ By GUID
 | SSRS                                              | {F14B399A-7131-4C87-9E4B-1186C45EF12D} |
 | VB.NET                                            | {F184B08F-C81C-45F6-A57F-5ABD9991F28F} |
 | F#                                                | {F2A71F9B-5D33-465A-A702-920D77279786} |
+| PowerShell                                        | {F5034706-568F-408A-B7B3-4D38C6DB8A32} |
 | MonoTouch Binding                                 | {F5B4F3BC-B597-4E2B-B552-EF5D8A32436F} |
 | ASP.NET MVC 2.0                                   | {F85E285D-A4E0-4152-9332-AB1D724D3325} |
 | SharePoint Workflow                               | {F8810EC1-6754-47FC-A15F-DFABD2E3FA90} |
