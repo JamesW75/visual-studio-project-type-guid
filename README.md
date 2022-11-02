@@ -57,6 +57,7 @@ By Description
 | Solution Folder                                   | {2150E333-8FDC-42A3-9474-1A3956D46DE8} |
 | SSIS                                              | {159641D6-6404-4A2A-AE62-294DE0FE8301} |
 | SSIS                                              | {D183A3D8-5FD8-494B-B014-37F57B35E655} |
+| SSIS                                              | {C9674DCB-5085-4A16-B785-4C70DD1589BD} |
 | SSRS                                              | {F14B399A-7131-4C87-9E4B-1186C45EF12D} |
 | Test                                              | {3AC096D0-A1C2-E12C-1390-A8335801FDAB} |
 | Universal Windows Class Library                   | {A5A43C5B-DE2A-4C0C-9213-0A381AF9435A} |
@@ -136,6 +137,7 @@ By GUID
 | Office/SharePoint App                             | {C1CDDADD-2546-481F-9697-4EA41081F2FC} |
 | Visual Database Tools                             | {C252FEB5-A946-4202-B1D4-9916A0590387} |
 | Platform Toolset v141                             | {C2CAFE0E-DCE1-4D03-BBF6-18283CF86E48} |
+| SSIS                                              | {C9674DCB-5085-4A16-B785-4C70DD1589BD} |
 | Legacy (2003) Smart Device (VB.NET)               | {CB4CE8C6-1BDB-4DC7-A4D3-65A1999772F8} |
 | SSIS                                              | {D183A3D8-5FD8-494B-B014-37F57B35E655} |
 | XNA (Zune)                                        | {D399B71A-8929-442A-A9AC-8BEC78BB2433} |
