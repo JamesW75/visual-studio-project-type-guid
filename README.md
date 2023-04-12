@@ -8,14 +8,27 @@ By Description
 | Description                                       | Guid                                   |
 |---------------------------------------------------|----------------------------------------|
 | ASP.NET 5                                         | {8BB2217D-0F2D-49D1-97BC-3654ED321F3B} |
+| ASP.NET Core Empty                                | {356CAE8B-CFD3-4221-B0A8-081A261C0C10} |
+| ASP.NET Core Web API                              | {687AD6DE-2DF8-4B75-A007-DEF66CD68131} |
+| ASP.NET Core Web App                              | {E27D8B1D-37A3-4EFC-AFAE-77744ED86BCA} |
+| ASP.NET Core Web App (Model-View-Controller)      | {065C0379-B32B-4E17-B529-0A722277FE2D} |
+| ASP.NET Core with Angular                         | {32F807D6-6071-4239-8605-A9B2205AAD60} |
+| ASP.NET Core with React.js                        | {4C3A4DF3-0AAD-4113-8201-4EEEA5A70EED} |
 | ASP.NET MVC 1                                     | {603C0E0B-DB56-11DC-BE95-000D561079B0} |
 | ASP.NET MVC 2                                     | {F85E285D-A4E0-4152-9332-AB1D724D3325} |
 | ASP.NET MVC 3                                     | {E53F8FEA-EAE0-44A6-8774-FFD645390401} |
 | ASP.NET MVC 4                                     | {E3E379DF-F4C6-4180-9B81-6769533ABE47} |
 | ASP.NET MVC 5                                     | {349C5851-65DF-11DA-9384-00065B846F21} |
+| Azure Functions                                   | {30E03E5A-5F87-4398-9D0D-FEB397AFC92D} |
+| Azure Resource Group (Blank Template)             | {14B7E1DC-C58C-427C-9728-EED16291B2DA} |
+| Azure Resource Group (Web app)                    | {E2FF0EA2-4842-46E0-A434-C62C75BAEC67} |
+| Azure WebJob (.NET Framework)                     | {BFBC8063-F137-4FC6-AEB4-F96101BA5C8A} |
+| Blazor Server App                                 | {C8A4CD56-20F4-440B-8375-78386A4431B9} |
 | C#                                                | {FAE04EC0-301F-11D3-BF4B-00C04F79EFBC} |
 | C# (.Net Core)                                    | {9A19103F-16F7-4668-BE54-9A1E7A4F7556} |
 | C++                                               | {8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942} |
+| Class Library                                     | {2EFF6E4D-FF75-4ADF-A9BE-74BEC0B0AFF8} |
+| Console App                                       | {008A663C-3F22-40EF-81B0-012B6C27E2FB} |
 | Database                                          | {A9ACE9BB-CECE-4E62-9AA4-C7E7C5BD2124} |
 | Database (other project types)                    | {4F174C21-8C12-11D0-8340-0000F80270F8} |
 | Deployment Cab                                    | {3EA9E505-35AC-4774-B492-AD1749C4943A} |
@@ -91,18 +104,26 @@ By GUID
 
 | Description                                       | Guid                                   |
 |---------------------------------------------------|----------------------------------------|
+| Console App                                       | {008A663C-3F22-40EF-81B0-012B6C27E2FB} |
+| ASP.NET Core Web App (Model-View-Controller)      | {065C0379-B32B-4E17-B529-0A722277FE2D} |
 | Deployment Merge Module                           | {06A35CCD-C46D-44D5-987B-CF40FF872267} |
 | Workflow (C#)                                     | {14822709-B5A1-4724-98CA-57A101D1B079} |
+| Azure Resource Group (Blank Template)             | {14B7E1DC-C58C-427C-9728-EED16291B2DA} |
 | SSIS                                              | {159641D6-6404-4A2A-AE62-294DE0FE8301} |
 | Legacy (2003) Smart Device (C#)                   | {20D4826A-C6FA-45DB-90F4-C717570B9F32} |
 | Solution Folder                                   | {2150E333-8FDC-42A3-9474-1A3956D46DE8} |
 | JScript                                           | {262852C6-CD72-467D-83FE-5EEB1973A190} |
 | XNA (XBox)                                        | {2DF5C3F4-5A5F-47a9-8E94-23B4456F55E2} |
+| Class Library                                     | {2EFF6E4D-FF75-4ADF-A9BE-74BEC0B0AFF8} |
+| Azure Functions                                   | {30E03E5A-5F87-4398-9D0D-FEB397AFC92D} |
 | Workflow Foundation                               | {32F31D43-81CC-4C15-9DE6-3FC5453562B6} |
+| ASP.NET Core with Angular                         | {32F807D6-6071-4239-8605-A9B2205AAD60} |
+| ASP.NET Core Empty                                | {356CAE8B-CFD3-4221-B0A8-081A261C0C10} |
 | Web Application (incl. MVC 5)                     | {349C5851-65DF-11DA-9384-00065B846F21} |
 | Test                                              | {3AC096D0-A1C2-E12C-1390-A8335801FDAB} |
 | Windows Communication Foundation (WCF)            | {3D9AD99F-2412-4246-B90B-4EAA41C64699} |
 | Deployment Cab                                    | {3EA9E505-35AC-4774-B492-AD1749C4943A} |
+| ASP.NET Core with React.js                        | {4C3A4DF3-0AAD-4113-8201-4EEEA5A70EED} |
 | Smart Device (C#)                                 | {4D628B5B-2FBC-4AA6-8C16-197242AEB884} |
 | Database (other project types)                    | {4F174C21-8C12-11D0-8340-0000F80270F8} |
 | Visual Studio 2015 Installer Project Extension    | {54435603-DBB4-11D2-8724-00A0C9A8B90C} |
@@ -110,6 +131,7 @@ By GUID
 | SharePoint (C#)                                   | {593B0543-81F6-4436-BA1E-4747859CAAE2} |
 | ASP.NET MVC 1.0                                   | {603C0E0B-DB56-11DC-BE95-000D561079B0} |
 | Windows Presentation Foundation (WPF)             | {60DC8134-EBA5-43B8-BCC9-BB4BC16C2548} |
+| ASP.NET Core Web API                              | {687AD6DE-2DF8-4B75-A007-DEF66CD68131} |
 | Smart Device (VB.NET)                             | {68B1623D-7FB9-47D8-8664-7ECEA3297D4F} |
 | Project Folders                                   | {66A26720-8FB5-11D2-AA7E-00C04F688DDE} |
 | MonoTouch                                         | {6BC8ED88-2882-458C-8E55-DFD12B67127B} |
@@ -133,10 +155,12 @@ By GUID
 | Visual Studio Tools for Office (VSTO)             | {BAA0C2D2-18E2-41B9-852F-F413020CAA33} |
 | Windows Store Apps (Metro Apps)                   | {BC8A1FFA-BEE3-4634-8014-F334798102B3} |
 | C# in Dynamics 2012 AX AOT                        | {BF6F8E12-879D-49E7-ADF0-5503146B24B8} |
+| Azure WebJob (.NET Framework)                     | {BFBC8063-F137-4FC6-AEB4-F96101BA5C8A} |
 | Windows Phone 8/8.1 App (C#)                      | {C089C8C0-30E0-4E22-80C0-CE093F111A43} |
 | Office/SharePoint App                             | {C1CDDADD-2546-481F-9697-4EA41081F2FC} |
 | Visual Database Tools                             | {C252FEB5-A946-4202-B1D4-9916A0590387} |
 | Platform Toolset v141                             | {C2CAFE0E-DCE1-4D03-BBF6-18283CF86E48} |
+| Blazor Server App                                 | {C8A4CD56-20F4-440B-8375-78386A4431B9} |
 | SSIS                                              | {C9674DCB-5085-4A16-B785-4C70DD1589BD} |
 | Legacy (2003) Smart Device (VB.NET)               | {CB4CE8C6-1BDB-4DC7-A4D3-65A1999772F8} |
 | SSIS                                              | {D183A3D8-5FD8-494B-B014-37F57B35E655} |
@@ -146,6 +170,8 @@ By GUID
 | Lightswitch                                       | {DA98106F-DEFA-4A62-8804-0BD2F166A45D} |
 | Windows Phone 8/8.1 App (VB.NET)                  | {DB03555F-0C8B-43BE-9FF9-57896B3C5E56} |
 | Web Site                                          | {E24C65DC-7377-472B-9ABA-BC803B73C61A} |
+| Azure Resource Group (Web app)                    | {E2FF0EA2-4842-46E0-A434-C62C75BAEC67} |
+| ASP.NET Core Web App                              | {E27D8B1D-37A3-4EFC-AFAE-77744ED86BCA} |
 | ASP.NET MVC 4.0                                   | {E3E379DF-F4C6-4180-9B81-6769533ABE47} |
 | ASP.NET MVC 3.0                                   | {E53F8FEA-EAE0-44A6-8774-FFD645390401} |
 | J#                                                | {E6FDF86B-F3D1-11D4-8576-0002A516ECE8} |
