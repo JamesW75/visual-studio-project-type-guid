@@ -85,6 +85,7 @@ By Description
 | Windows (C#)                                      | {FAE04EC0-301F-11D3-BF4B-00C04F79EFBC} |
 | Windows (VB.NET)                                  | {F184B08F-C81C-45F6-A57F-5ABD9991F28F} |
 | Windows (Visual C++)                              | {8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942} |
+| Windows Application Packaging Project (MSIX)      | {C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5} |
 | Windows Communication Foundation (WCF)            | {3D9AD99F-2412-4246-B90B-4EAA41C64699} |
 | Windows Phone 8/8.1 Blank/Hub/Webview App         | {76F1466A-8B6D-4E39-A767-685A06062A39} |
 | Windows Phone 8/8.1 App (C#)                      | {C089C8C0-30E0-4E22-80C0-CE093F111A43} |
@@ -161,6 +162,7 @@ By GUID
 | Office/SharePoint App                             | {C1CDDADD-2546-481F-9697-4EA41081F2FC} |
 | Visual Database Tools                             | {C252FEB5-A946-4202-B1D4-9916A0590387} |
 | Platform Toolset v141                             | {C2CAFE0E-DCE1-4D03-BBF6-18283CF86E48} |
+| Windows Application Packaging Project (MSIX)      | {C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5} |
 | Blazor Server App                                 | {C8A4CD56-20F4-440B-8375-78386A4431B9} |
 | SSIS                                              | {C9674DCB-5085-4A16-B785-4C70DD1589BD} |
 | Legacy (2003) Smart Device (VB.NET)               | {CB4CE8C6-1BDB-4DC7-A4D3-65A1999772F8} |
