@@ -1,6 +1,6 @@
 # Visual Studio Project Type Guids
 
-Building on the list of Project Type Guids by Yvan Rodrigues from https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs which was last updated in  2016.
+Building on the list of Project Type Guids by Yvan Rodrigues from https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs which was last updated in 2016.
 
 By Description
 --------------
@@ -72,8 +72,9 @@ By Description
 | SSIS                                              | {D183A3D8-5FD8-494B-B014-37F57B35E655} |
 | SSIS                                              | {C9674DCB-5085-4A16-B785-4C70DD1589BD} |
 | SSRS                                              | {F14B399A-7131-4C87-9E4B-1186C45EF12D} |
+| Store App Universal                               | {D954291E-2A0B-460D-934E-DC6B0785DB48} |
 | Test                                              | {3AC096D0-A1C2-E12C-1390-A8335801FDAB} |
-| Universal Windows Class Library                   | {A5A43C5B-DE2A-4C0C-9213-0A381AF9435A} |
+| Universal Windows Class Library (UWP)             | {A5A43C5B-DE2A-4C0C-9213-0A381AF9435A} |
 | VB.NET                                            | {F184B08F-C81C-45F6-A57F-5ABD9991F28F} |
 | Visual Database Tools                             | {C252FEB5-A946-4202-B1D4-9916A0590387} |
 | Visual Studio 2015 Installer Project Extension    | {54435603-DBB4-11D2-8724-00A0C9A8B90C} |
@@ -147,7 +148,7 @@ By GUID
 | Deployment Setup                                  | {978C614F-708E-4E1A-B201-565925725DBA} |
 | C# (.Net Core)                                    | {9A19103F-16F7-4668-BE54-9A1E7A4F7556} |
 | Silverlight                                       | {A1591282-1198-4647-A2B1-27E5FF5F6F3B} |
-| Universal Windows Class Library                   | {A5A43C5B-DE2A-4C0C-9213-0A381AF9435A} |
+| Universal Windows Class Library (UWP)             | {A5A43C5B-DE2A-4C0C-9213-0A381AF9435A} |
 | Visual Studio Tools for Applications (VSTA)       | {A860303F-1F3F-4691-B57E-529FC101A107} |
 | Database                                          | {A9ACE9BB-CECE-4E62-9AA4-C7E7C5BD2124} |
 | Deployment Smart Device Cab                       | {AB322303-2255-48EF-A496-5904EB18DA55} |
