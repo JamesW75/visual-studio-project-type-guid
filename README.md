@@ -61,6 +61,7 @@ By Description
 | Portable Class Library                            | {786C830F-07A1-408B-BD7F-6EE04809D6DB} |
 | PowerShell                                        | {F5034706-568F-408A-B7B3-4D38C6DB8A32} |
 | Project Folders                                   | {66A26720-8FB5-11D2-AA7E-00C04F688DDE} |
+| Python                                            | {888888A0-9F3D-457C-B088-3A5042F75D52} |
 | SharePoint (C#)                                   | {593B0543-81F6-4436-BA1E-4747859CAAE2} |
 | SharePoint (VB.NET)                               | {EC05E597-79D4-47F3-ADA0-324C4F7C7484} |
 | SharePoint Workflow                               | {F8810EC1-6754-47FC-A15F-DFABD2E3FA90} |
@@ -142,6 +143,7 @@ By GUID
 | Portable Class Library                            | {786C830F-07A1-408B-BD7F-6EE04809D6DB} |
 | Extensibility                                     | {82B43B9B-A64C-4715-B499-D71E9CA2BD60} |
 | MonoDevelop Addin                                 | {86F6BF2A-E449-4B3E-813B-9ACC37E5545F} |
+| Python                                            | {888888A0-9F3D-457C-B088-3A5042F75D52} |
 | LightSwitch                                       | {8BB0C5E8-0616-4F60-8E55-A43933E57E9C} |
 | ASP.NET 5                                         | {8BB2217D-0F2D-49D1-97BC-3654ED321F3B} |
 | C++                                               | {8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942} |
