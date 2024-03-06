@@ -77,6 +77,7 @@ By Description
 | Test                                              | {3AC096D0-A1C2-E12C-1390-A8335801FDAB} |
 | Universal Windows Class Library (UWP)             | {A5A43C5B-DE2A-4C0C-9213-0A381AF9435A} |
 | VB.NET                                            | {F184B08F-C81C-45F6-A57F-5ABD9991F28F} |
+| VB.NET                                            | {778DAE3C-4631-46EA-AA77-85C1314464D9} |
 | Visual Database Tools                             | {C252FEB5-A946-4202-B1D4-9916A0590387} |
 | Visual Studio 2015 Installer Project Extension    | {54435603-DBB4-11D2-8724-00A0C9A8B90C} |
 | Visual Studio Tools for Applications (VSTA)       | {A860303F-1F3F-4691-B57E-529FC101A107} |
@@ -140,6 +141,7 @@ By GUID
 | MonoTouch                                         | {6BC8ED88-2882-458C-8E55-DFD12B67127B} |
 | XNA (Windows)                                     | {6D335F3A-9D43-41b4-9D22-F6F17C4BE596} |
 | Windows Phone 8/8.1 Blank/Hub/Webview App         | {76F1466A-8B6D-4E39-A767-685A06062A39} |
+| VB.NET                                            | {778DAE3C-4631-46EA-AA77-85C1314464D9} |
 | Portable Class Library                            | {786C830F-07A1-408B-BD7F-6EE04809D6DB} |
 | Extensibility                                     | {82B43B9B-A64C-4715-B499-D71E9CA2BD60} |
 | MonoDevelop Addin                                 | {86F6BF2A-E449-4B3E-813B-9ACC37E5545F} |
