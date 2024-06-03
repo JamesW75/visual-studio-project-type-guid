@@ -97,6 +97,7 @@ By Description
 | Workflow (C#)                                     | {14822709-B5A1-4724-98CA-57A101D1B079} |
 | Workflow (VB.NET)                                 | {D59BE175-2ED0-4C54-BE3D-CDAA9F3214C8} |
 | Workflow Foundation                               | {32F31D43-81CC-4C15-9DE6-3FC5453562B6} |
+| Workflow Foundation (Alternate)                   | {2AA76AF3-4D9E-4AF0-B243-EB9BCDFB143B} |
 | Xamarin.Android                                   | {EFBA0AD7-5A72-4C68-AF49-83D382785DCF} |
 | Xamarin.iOS                                       | {6BC8ED88-2882-458C-8E55-DFD12B67127B} |
 | XNA (Windows)                                     | {6D335F3A-9D43-41b4-9D22-F6F17C4BE596} |
@@ -115,6 +116,7 @@ By GUID
 | Azure Resource Group (Blank Template)             | {14B7E1DC-C58C-427C-9728-EED16291B2DA} |
 | SSIS                                              | {159641D6-6404-4A2A-AE62-294DE0FE8301} |
 | Legacy (2003) Smart Device (C#)                   | {20D4826A-C6FA-45DB-90F4-C717570B9F32} |
+| Workflow Foundation (Alternate)                   | {2AA76AF3-4D9E-4AF0-B243-EB9BCDFB143B} |
 | Solution Folder                                   | {2150E333-8FDC-42A3-9474-1A3956D46DE8} |
 | JScript                                           | {262852C6-CD72-467D-83FE-5EEB1973A190} |
 | XNA (XBox)                                        | {2DF5C3F4-5A5F-47a9-8E94-23B4456F55E2} |
