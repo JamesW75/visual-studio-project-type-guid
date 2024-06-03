@@ -73,7 +73,7 @@ By Description
 | SSIS                                              | {D183A3D8-5FD8-494B-B014-37F57B35E655} |
 | SSIS                                              | {C9674DCB-5085-4A16-B785-4C70DD1589BD} |
 | SSRS                                              | {F14B399A-7131-4C87-9E4B-1186C45EF12D} |
-| Store App Universal                               | {D954291E-2A0B-460D-934E-DC6B0785DB48} |
+| Shared Project                                    | {D954291E-2A0B-460D-934E-DC6B0785DB48} |
 | Test                                              | {3AC096D0-A1C2-E12C-1390-A8335801FDAB} |
 | Universal Windows Class Library (UWP)             | {A5A43C5B-DE2A-4C0C-9213-0A381AF9435A} |
 | VB.NET                                            | {F184B08F-C81C-45F6-A57F-5ABD9991F28F} |
@@ -173,7 +173,7 @@ By GUID
 | SSIS                                              | {D183A3D8-5FD8-494B-B014-37F57B35E655} |
 | XNA (Zune)                                        | {D399B71A-8929-442A-A9AC-8BEC78BB2433} |
 | Workflow (VB.NET)                                 | {D59BE175-2ED0-4C54-BE3D-CDAA9F3214C8} |
-| Store App Universal                               | {D954291E-2A0B-460D-934E-DC6B0785DB48} |
+| Shared Project                                    | {D954291E-2A0B-460D-934E-DC6B0785DB48} |
 | Lightswitch                                       | {DA98106F-DEFA-4A62-8804-0BD2F166A45D} |
 | Windows Phone 8/8.1 App (VB.NET)                  | {DB03555F-0C8B-43BE-9FF9-57896B3C5E56} |
 | Web Site                                          | {E24C65DC-7377-472B-9ABA-BC803B73C61A} |
