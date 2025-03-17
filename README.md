@@ -82,6 +82,8 @@ By Description
 | Visual Studio 2015 Installer Project Extension    | {54435603-DBB4-11D2-8724-00A0C9A8B90C} |
 | Visual Studio Tools for Applications (VSTA)       | {A860303F-1F3F-4691-B57E-529FC101A107} |
 | Visual Studio Tools for Office (VSTO)             | {BAA0C2D2-18E2-41B9-852F-F413020CAA33} |
+| Visual Studio Tools for Office Visual C# Add-in   | {04D02946-0DBE-48F9-8383-8B75A5B7BA34} |
+| Visual Studio Tools for Office SharePoint         | {BB1F664B-9266-4fd6-B973-E1E44974B511} |
 | Web Application                                   | {349C5851-65DF-11DA-9384-00065B846F21} |
 | Web Site                                          | {E24C65DC-7377-472B-9ABA-BC803B73C61A} |
 | Windows (C#)                                      | {FAE04EC0-301F-11D3-BF4B-00C04F79EFBC} |
@@ -110,6 +112,7 @@ By GUID
 | Description                                       | Guid                                   |
 |---------------------------------------------------|----------------------------------------|
 | Console App                                       | {008A663C-3F22-40EF-81B0-012B6C27E2FB} |
+| Visual Studio Tools for Office Visual C# Add-in   | {04D02946-0DBE-48F9-8383-8B75A5B7BA34} |
 | ASP.NET Core Web App (Model-View-Controller)      | {065C0379-B32B-4E17-B529-0A722277FE2D} |
 | Deployment Merge Module                           | {06A35CCD-C46D-44D5-987B-CF40FF872267} |
 | Workflow (C#)                                     | {14822709-B5A1-4724-98CA-57A101D1B079} |
@@ -161,6 +164,7 @@ By GUID
 | Deployment Smart Device Cab                       | {AB322303-2255-48EF-A496-5904EB18DA55} |
 | Micro Frmework                                    | {B69E3092-B931-443C-ABE7-7E7B65F2A37F} |
 | Visual Studio Tools for Office (VSTO)             | {BAA0C2D2-18E2-41B9-852F-F413020CAA33} |
+| Visual Studio Tools for Office SharePoint         | {BB1F664B-9266-4fd6-B973-E1E44974B511} |
 | Windows Store Apps (Metro Apps)                   | {BC8A1FFA-BEE3-4634-8014-F334798102B3} |
 | C# in Dynamics 2012 AX AOT                        | {BF6F8E12-879D-49E7-ADF0-5503146B24B8} |
 | Azure WebJob (.NET Framework)                     | {BFBC8063-F137-4FC6-AEB4-F96101BA5C8A} |
