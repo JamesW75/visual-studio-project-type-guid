@@ -96,6 +96,7 @@ By Description
 | Windows Phone 8/8.1 App (VB.NET)                  | {DB03555F-0C8B-43BE-9FF9-57896B3C5E56} |
 | Windows Presentation Foundation (WPF)             | {60DC8134-EBA5-43B8-BCC9-BB4BC16C2548} |
 | Windows Store (Metro) Apps & Components           | {BC8A1FFA-BEE3-4634-8014-F334798102B3} |
+| Windows Installer XML Toolset (WiX)               | {B7DD6F7E-DEF8-4E67-B5B7-07EF123DB6F0} |
 | Workflow (C#)                                     | {14822709-B5A1-4724-98CA-57A101D1B079} |
 | Workflow (VB.NET)                                 | {D59BE175-2ED0-4C54-BE3D-CDAA9F3214C8} |
 | Workflow Foundation                               | {32F31D43-81CC-4C15-9DE6-3FC5453562B6} |
@@ -163,6 +164,7 @@ By GUID
 | Database                                          | {A9ACE9BB-CECE-4E62-9AA4-C7E7C5BD2124} |
 | Deployment Smart Device Cab                       | {AB322303-2255-48EF-A496-5904EB18DA55} |
 | Micro Frmework                                    | {B69E3092-B931-443C-ABE7-7E7B65F2A37F} |
+| Windows Installer XML Toolset (WiX)               | {B7DD6F7E-DEF8-4E67-B5B7-07EF123DB6F0} |
 | Visual Studio Tools for Office (VSTO)             | {BAA0C2D2-18E2-41B9-852F-F413020CAA33} |
 | Visual Studio Tools for Office SharePoint         | {BB1F664B-9266-4fd6-B973-E1E44974B511} |
 | Windows Store Apps (Metro Apps)                   | {BC8A1FFA-BEE3-4634-8014-F334798102B3} |
